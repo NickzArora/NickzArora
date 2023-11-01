@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NickzArora
-- 👀 I’m interested in Web app development, game development
-- 🌱 I’m currently learning DS And ALgo, React, Angular
+- 👋 Hi, I’m @NickzArora(Nikhil Arora)
+- 👀 I’m interested in designing Complex Systems
+- 🌱 I’m currently learning AWS, System Design
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me- My number is 9891508349 and my email is nickzarora@gmail.com
 
